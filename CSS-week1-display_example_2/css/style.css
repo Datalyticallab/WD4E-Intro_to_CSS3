@@ -1,22 +1,13 @@
-/*Take out the comments around each rule.
+/* What can you do here to make sure the divs 
+take up the same space */
 
-Try changing the display property*/
-span{
-     background-color: red;
-/*      display: block; */
-}
-
-p{
-		  background-color: yellow;
-/*       padding: 25px; */
-}
-
-     
 div{
-       width: 20%;
-       height: 25px;
-       margin:20px;
-/* 		   display: inline-block; */
-		   background-color: green;
-/*         overflow:scroll; */
+ width: 30%;
+ background: #00ffff;
+ height: 400px;
+ 
+ 
+ display:inline-block;
+ /* float: */
+ 
 }
