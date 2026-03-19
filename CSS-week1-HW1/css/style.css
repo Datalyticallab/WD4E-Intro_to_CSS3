@@ -44,6 +44,12 @@ li{
 }
 
 h1{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(230, 189, 53);
+}
+
+h2{
   text-align: left;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: rgb(163, 79, 24);
@@ -52,6 +58,13 @@ h1{
 p{  
   line-height: 1.6;
   margin-bottom: 15px;
+}
+
+section {
+  background-color: bisque;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
 }
 
 img {
